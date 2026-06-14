@@ -1,0 +1,28 @@
+body{
+    background:#0f172a;
+    color:white;
+}
+
+.dashboard-card{
+    background:#1e293b;
+    border:none;
+    border-radius:15px;
+}
+
+.card{
+    color:white;
+}
+
+h3{
+    color:#f59e0b;
+}
+
+h2{
+    color:#f59e0b;
+}
+
+canvas{
+    background:white;
+    border-radius:10px;
+    padding:10px;
+}
